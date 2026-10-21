@@ -1,6 +1,7 @@
 # RELIX v0.01
 Biological simulator meant for testing synthetic biology. 
 Will be updated soon. Feel free to fork and commit as you wish.
+LINUX ONLY!
 
 # DESCRIPTION
 RELIX is a biological simulator meant for testing synbio.
@@ -16,6 +17,14 @@ One of my favorite features out of the bunch is chemex. Containing chemical expe
 As it is a very young tool (published october 2026) it contains a somewhat small amount of things in chemex, which is subject to change in v0.02 and higher.
 
 It is one of my favorite pieces of software i have made, and i am very proud of it.
+
+# INSTALL
+
+Download the .ZIP or Clone via HTTPS 
+(using payhip)
+Pass through the "transaction" (its pay what you want) window
+
+Install the outputted files, and put them in the directory of your choice.
 
 # FEATURES
 
@@ -201,3 +210,8 @@ UI
 - Per-tab controls
 - Settings dialog (max instructions, min string length, max strings, hex dump size, theme)
 
+# NOTE
+
+Despite my creations, I am a 12 year old developer.
+Most of this is subject to change and get more accurate as i get older, and i am proud of this.
+Due to this, i would like you all to educate me on how to improve in my journey through this tool, and help me grow as a developer.
