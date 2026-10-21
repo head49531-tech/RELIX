@@ -11,8 +11,11 @@ It is as much a game as a serious piece of software.
 
 Built in Go (With Fyne, GofPDF), This is a amazing piece of software which pushes the limits of the language.
 It contains multiple different features, ranging from high-level, easy to understand features, to low-level, lab features.
-One of my favorite features out of the bunch is chemex. Containing chemical experimentation.
+One of my favorite features out of the bunch is chemex. Containing chemical experimentation, From water to sulfur.
 
+As it is a very young tool (published october 2026) it contains a somewhat small amount of things in chemex, which is subject to change in v0.02 and higher.
+
+It is one of my favorite pieces of software i have made, and i am very proud of it.
 
 # FEATURES
 
